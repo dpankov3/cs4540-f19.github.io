@@ -1,26 +1,19 @@
+## [Please fill out the COURSE SURVEY!](https://forms.gle/7MUG3ZwvHs2YLYBW9)
+
 # Course Info
 
 **Lecture Info** 
 - *Time:* Tuesday/Thursday 4:30-5:45pm
 - *Location*: College of Computing Building 102 
 
-**Professor:** Jacob Abernethy
-- *Email*: prof_at_gatech_dot_edu
-- *Office Hours*: TBD
+| Role | Name             | `____@gatech.edu` | Office Hours |
+| ---- | ---------------- | ----------------- | ------------ |
+| Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | TBD |
+| GTA  | Benjamin Bray    | `benrbray`    | TBD |
+| TA   | Shyamal Patel    | `patels`      | TBD |
+| TA   | Rafael Hanashiro | `rhanashiro3` | TBD |
 
-**GTA:** Benjamin Bray
-- *Email*: benrbray_at_gatech_dot_edu
-- *Office Hours*:  TBD
-
-**TA:** Shyamal Patel
-- *Email*: patels_at_gatech_dot_edu
-- *Office Hours*:  TBD
-
-**TA:** Rafael Hanashiro
-- *Email*: rhanashiro3_at_gatech_dot_edu
-- *Office Hours*: TBD
-
-[Please fill out the COURSE SURVEY!](https://forms.gle/7MUG3ZwvHs2YLYBW9)
+## Course Description
 
 This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on **algorithms for machine learning**. We will be especially interested in diving into the following topics:
 
