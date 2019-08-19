@@ -1,4 +1,4 @@
-<div style="text-align:center; border:2px solid #b8491e; color: #b8491e; padding: 10px; font-size: 18px">
+<div style="text-align:center; border:2px solid #853ad6; color: #b8491e; padding: 20px; margin: 0 40px; font-size: 18px; background-color: #f4e5ff">
 <a href="https://forms.gle/7MUG3ZwvHs2YLYBW9">Please fill out the COURSE SURVEY!</a>
 </div>
 
