@@ -10,12 +10,19 @@
 
 **Course Staff**
 
+We will be using Piazza (and occasionally Canvas announcements) for 
+We strongly prefer that you use Piazza for questions about lecture material, homeworks, and course logistics.  Please only use email in the case of a personal emergency or other sensitive matter.
+
 | Role | Name             | `____@gatech.edu` | Office Hours |
 | ---- | ---------------- | ----------------- | ------------ |
 | Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | TBD |
 | GTA  | Benjamin Bray    | `benrbray`    | TBD |
 | TA   | Shyamal Patel    | `patels`      | TBD |
 | TA   | Rafael Hanashiro | `rhanashiro3` | TBD |
+
+**Communication**
+
+We will be using Piazza for managing questions about lecture material, homeworks, and course logistics.  Please only send us email in the event of a personal emergency or other sensitive matter.  If you email us about anything else, we will likely request that you open a Piazza post.  (Note that you can make private posts on Piazza to avoid revealing homework solutions publicly.)
 
 ## Course Description
 
@@ -44,10 +51,11 @@ Each class period will have the following structure:
 
 The course grades will be determined as follows.  Note that the in-class quizzes will be graded generously, and 50% of the credit will be given simply for showing up and answering the questions.
 
-| Homeworks		| 35% |
-| Attendance + Quizzes	| 15% |
-| Midterm Exam		| 20% |
-| Final Exam		| 30% |
+| --------------------- | -----|
+| Homeworks		| 35%  |
+| Attendance + Quizzes	| 15%  |
+| Midterm Exam		| 20%  |
+| Final Exam		| 30%  |
 
 Quizzes will be entered electronically, via a web form, so make sure you have a phone, laptop, or tablet with you in class!  If you don’t have access to any of these, please let the instructor know.  The grading scheme will be:
 
@@ -68,14 +76,15 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 ## Important Dates
 
-* *(Tuesday, 8/20/19)* First day of class
-* *(Friday, 8/23/19)* Schedule change deadline
-* *(Monday, 9/2/19)* Labor Day
-* *(Monday 10/14/19 - Tuesday, 10/15/19)* Fall Recess (no class)
-* *(Monday, 10/26/19 @ 4pm)* Withdrawal Deadline
-* *(Wednesday, 11/27/19 - Sunday, 11/31/19)* Thanksgiving Break
-* *(Tuesday, 12/3/19)* Last day of class
-* *(Thursday, 12/5/19 @ 2:40-5:30pm)* **Final Exam** (determined by [final exam matrix](https://registrar.gatech.edu/files/201908_Final_Exam_Matrix.pdf))
+| ---- | ----- |
+| Tuesday, 8/20/19 | First day of class |
+| Friday, 8/23/19  | Schedule change deadline |
+| Monday, 9/2/19   | Labor Day |
+| Mon 10/14/19 - Tues, 10/15/19 | Fall Recess (no class) |
+| Monday, 10/26/19 @ 4pm | Withdrawal Deadline |
+| Wed, 11/27/19 - Sun, 11/31/19 | Thanksgiving Break |
+| Tuesday, 12/3/19 | Last day of class |
+| Thursday, 12/5/19 @ 2:40-5:30pm | **Final Exam** (determined by [final exam matrix](https://registrar.gatech.edu/files/201908_Final_Exam_Matrix.pdf)) |
 
 # Homework
 
