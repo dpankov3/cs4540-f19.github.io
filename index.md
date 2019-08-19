@@ -1,21 +1,26 @@
 # Course Info
 
-**Lecture Location:** Tu/Th 3-4:15pm in Klaus 2443
+**Lecture Info** 
+- *Time:* Tuesday/Thursday 4:30-5:45pm
+- *Location*: College of Computing Building 102 
 
-**Professor:** 
-- Jacob Abernethy
-    + Email: prof_at_gatech_dot_edu
-    + Office Hours: Monday, 11am-12pm (Klaus 2134)
-    
-**Teaching Assistants:** 
-- Benjamin Bray
-    + Email: benrbray_at_gatech_dot_edu
-    + Office Hours: Fridays, 12:30-1:30pm (tables between Klaus 2116 and 2124)
-- Naveen Kodali
-    + Email: nkodali3_at_gatech_dot_edu
-    + Office Hours: Wednesdays, 3:00-4:00pm (starting from Sep 5, tables between Klaus 2116 and 2124)
+**Professor:** Jacob Abernethy
+- *Email*: prof_at_gatech_dot_edu
+- *Office Hours*: TBD
 
-[Please fill out the COURSE SURVEY!](https://goo.gl/forms/LRJRu5DLhkLfmMCt1)
+**GTA:** Benjamin Bray
+- *Email*: benrbray_at_gatech_dot_edu
+- *Office Hours*:  TBD
+
+**TA:** Shyamal Patel
+- *Email*: patels_at_gatech_dot_edu
+- *Office Hours*:  TBD
+
+**TA:** Rafael Hanashiro
+- *Email*: rhanashiro3_at_gatech_dot_edu
+- *Office Hours*: TBD
+
+[Please fill out the COURSE SURVEY!](https://forms.gle/7MUG3ZwvHs2YLYBW9)
 
 This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on **algorithms for machine learning**. We will be especially interested in diving into the following topics:
 
@@ -74,7 +79,7 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 # Homework
 
-* **Homework #1** due Sunday, September 9 @ 11:59pm
+* **Homework #1** Due date TBD
 
 # Calendar
 
@@ -82,7 +87,9 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 # Schedule
 
-(Tu 8/21/18) **Lecture #1:  Introduction & Perceptron**
+### Tentative Schedule (*read ahead at your own risk!*)
+
+(Tu 8/20/19) **Lecture #1:  Introduction & Perceptron**
 
 No Required Reading
 
@@ -92,7 +99,7 @@ No Required Reading
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
   
-(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture02_linear-algebra.ipynb))
+(Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
 
@@ -105,7 +112,7 @@ No Required Reading
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
-(Tu 8/28/18) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture03_convex_sets.ipynb))
+(Tu 8/27/19) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture03_convex_sets.ipynb))
 
 *Required Preparation before Class*
 
@@ -122,7 +129,7 @@ No Required Reading
 * ETH Zürich, Approximate Methods in Geometry, ["Chapter 1:  Some Basic Geometry"](https://www.ti.inf.ethz.ch/ew/lehre/ApproxGeom08/notes/01_Basic_Geometry.pdf)
 * David L. Finn, Rose-Hullman MA 323, ["Barycentric Coordinates & de Casteljau's Algorithm"](https://www.rose-hulman.edu/~finn/CCLI/Notes/day11.pdf)
 
-(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb))
+(Th 8/29/19) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb))
 
 
 
@@ -142,7 +149,7 @@ No Required Reading
 	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
-(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb))
+(Tu 9/3/19) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb))
 
 *Required Preparation before Class*
  
@@ -158,13 +165,13 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
-(Th 9/6/18) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
+(Th 9/5/19) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
 	* Try to get used to the matrix notation for linear programs!  Think geometrically!
 
-(Tu 9/11/18) **Lecture #7:  Linear Programming Duality** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture07_linear-programming-duality.ipynb))
+(Tu 9/10/19) **Lecture #7:  Linear Programming Duality** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture07_linear-programming-duality.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 8: Linear Programming Duality I](http://theory.stanford.edu/~tim/w16/l/l8.pdf) (Pages 1-6)
@@ -175,14 +182,14 @@ No Required Reading
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
   
-(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture08_duality_convexity_PSD.ipynb))
+(Th 9/12/19) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture08_duality_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
 	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
 	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
 
-(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
+(Tu 9/17/19) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 17-21)
@@ -196,7 +203,7 @@ No Required Reading
 	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
 * Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
 
-(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture10_gradient-descent-variants.ipynb))
+(Th 9/19/19) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture10_gradient-descent-variants.ipynb))
 
 *Required Preparation before Class*
 * Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), §7.1-7.4
@@ -206,143 +213,3 @@ No Required Reading
 *Additional Resources*
 * Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
 * Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
-
-(Tu 9/25/18) **Lecture #11:  Applications of Gradient Descent** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture11_gradient-descent-applications.ipynb))
-
-*Required Preparation before Class*
-* No new reading for today!  We'll talk about Frank-Wolfe, so remind yourself about the reading from L10.
-
-*Additional Resources*
-* Gabriel Goh, *Distill*, ["Why Momentum Really Works"](https://distill.pub/2017/momentum/)
-* Moritz Hardt, ["The Zen of Gradient Descent"](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
-* Peter Absil, "Optimization on Matrix Manifolds" [slides](https://perso.uclouvain.be/pa.absil/Talks/IAP_Study_Day_070416_oom_03.pdf) (and [book](https://press.princeton.edu/titles/8586.html))
-
-(Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture12_fixed-points-newton.ipynb))
-
-*Required Preparation before Class*
-* Sauer, [*Numerical Analysis*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1371975) (posted to Canvas)
-	* §1.1 The Bisection Method (Pages 25-29)
-	* §1.2 Fixed Point Iteration (Pages 30-40)
-	* §1.4 Newton's Method (Pages 51-58)
-* Review the following topics from multivariable calculus:
-	* Multivariate Taylor's Theorem
-	* Mean / Intermediate Value Theorems
-	
-*Additional Resources*
-* Newton's Method
-	* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), §9.5 Newton's Method
-	* Chris Hauser, ["Multivariate Newton's Method and Quasi-Newton"](http://homes.sice.indiana.edu/classes/spring2012/csci/b553-hauserk/newtons_method.pdf)
-	* Wei-Ta Chu 2014, ["Multivariate Newton's Method"](https://www.cs.ccu.edu.tw/~wtchu/courses/2014s_OPT/Lectures/Chapter%209%20Newton%27s%20Method.pdf) (slides)
-	* Ryan Tibshirani 2015, ["Newton's Method"](http://www.stat.cmu.edu/~ryantibs/convexopt-F15/lectures/14-newton.pdf) (slides)
-	* Sean Harrington, ["Solving Logistic Regression with Newton's Method"](https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method) (blog post; we'll cover logistic regression later)
-* Newton Fractals
-	* Simon Tatham, ["Fractals Derived from Newton-Raphson Iteration"](https://www.chiark.greenend.org.uk/~sgtatham/newton/)
-	* Daniel Dreibelbis, ["Newton Fractals"](https://www.unf.edu/~ddreibel/teaching/newton/index.html)
-	* Paul Bourke, ["An Introduction to Fractals"](http://paulbourke.net/fractals/fracintro/)
-* Geoffrey Hinton, Coursera NNML, ["A Brief Overview of Hessian-Free Optimization"](https://www.youtube.com/watch?v=iJ67SnPHEnU)
-* Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
-* Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
-
-(Tu 10/2/18) **Lecture #13:  Matrix Decompositions & SVD** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture13_matrix-decompositions.ipynb))
-
-*Required Preparation before Class*
-* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1372008) (posted to Canvas)
-	* Lecture 4:  The Singular Value Decomposition (Pages 25-31)
-	* Lecture 5:  More on the SVD (Pages 32-37)
-
-*Additional Resources*
-
-(Th 10/4/18) **Lecture #14:  Numerical Methods for Linear Systems** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture14_linear-systems.ipynb))
-
-*Required Preparation before Class*
-* Understand §5.1-5.3 of Shewchuk, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
-* Understand the [Gershgorin Circle Theorem](https://en.wikipedia.org/wiki/Gershgorin_circle_theorem) (Wikipedia's proof isn't too bad!)
-
-*Additional Resources*
-* Golub & van Loan, *Matrix Computations*, ["§11.2:  The Classical Iterations"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485926) (posted to Canvas)
-* Volker John, ["Ch 3:  Classical Iterative Schemes"](https://www.wias-berlin.de/people/john/LEHRE/NUMERIK_II/linsys_3.pdf)
-* Schonlieb, "Numerical Analysis" Lectures [16](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c16.pdf), [17](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c17.pdf), [18](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c18.pdf)
-* Gilbert Strang, *Mathematical Methods for Engineers*, [§6.2:  Iterative Methods](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/readings/am62.pdf)
-
-(Th 10/11/18) **Lecture #15:  Numerical Methods for Computing Eigenvalues** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture15_eigenvalues-eigenvectors.ipynb))
-
-*Required Preparation before Class*
-* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
-	* Lecture 27:  Rayleigh Quotient, Inverse Iteration (Pages 202-210)
-	
-*Additional Resources*
-* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
-	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
-	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
-
-(Tu 10/16/18) **Lecture #16:  Random Variables and Maximum Likelihood Estimation** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture16_random_variables_maximum_likelihood.ipynb))
-
-*Required Preparation before Class*
-* Maleki and Do, Stanford Lecture Notes, [*Review of Probability Theory*](http://cs229.stanford.edu/section/cs229-prob.pdf)
-	* Brush up on your probability theory, and make sure you understand the distributions *Binomial, Bernoulli, Poisson, Exponential, and Gaussian*
-
-* Zheng, Missouri State Lecture Notes, [*Maximum Likelihood Estimation*](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/MLE.pdf)
-	* Read through pages 1-7
-
-(Th 10/25/18) **Lecture #17:  Bayes Rule, Binomial, Regression, MAP Estimation** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture17_NaiveBayes.ipynb))
-
-*Required Preparation before Class*
-* Kevin Murphy, ["Machine Learning:  A Probabilistic Perspective"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1725476) book (on Canvas)
-	* §2.2:  Probability Review (esp §2.2.3)
-	* §2.3.1-2.3.2:  Binomial, Bernoulli, Multinomial, and Multinoulli distributions
-	* §3.2:  Bayesian Concept Learning
-	* §3.5:  Naive Bayes Classifiers
-	* Make sure you understand Bayes rule well by working out examples.
-
-(Tu 10/30/18) **Lecture is Cancelled**
-	
-
-(Th 11/1/18) **Lecture #18:  Beta-Binomial model, Conjugate Prior, Naive Bayes** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture18_NaiveBayes_Beta_Binomial.ipynb))
-
-*Required Preparation before Class*
-* Dan Navarro, Amy Perfors [In Introduction to the Beta-Binomial Model](https://compcogscisydney.org/ccs/technote_betabinomial.pdf) 
-
-
-(Tu 11/6/18) **Lecture #19:  Logistic Regression Model** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture19_NB_Bet_LogisticReg.ipynb))
-
-*Required Preparation before Class*
-* Charles Elkan [Maximum Likelihood, Logistic Regression,
-and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
-    * You only need to read through the first 7 pages, although you are welcome to continue!
-
-
-(Th 11/8/18) **Lecture #20:  Clustering** ([Lecture Slides ](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture20_clustering.ipynb))
-
-*Required Preparation before Class*
-* Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
-    * Read Sections 1-4, and Section 5.2
-
-(Tu 11/13/18) **Lecture #21:  Expectation Maximization** ([Lecture Slides - Soon](http://example.com))
-
-*Required Preparation before Class*
-* Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
-    * Read pages 1-7
-
-(Th 11/15/18) **Lecture #22:  EM and the Gaussian Mixture Model** ([Lecture Slides - Soon](http://example.com))
-
-*Required Preparation before Class*
-* Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
-    * Read pages 8-12
-    
-(Tu 11/27/18) **Lecture #23:  Exponential Weights Algorithm** (No slides -- board lecture)
-
-*Required Preparation before Class*
-* [Online Learning/Exponential Weights](http://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/notes/lec16_110515.pdf)
-  + You can skip Section 16.2 since we have already discussed the perceptron algorithm
-  
-(Th 11/29/18) **Lecture #24:  Boosting** 
-
-*Required Preparation before Class*
-* [The Boosting Approach to Machine Learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/boosting-survey.pdf)
-  + You only need to read pages 1-5
-
-*Additional Reading*
-* [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
-
-### Tentative Schedule (*read ahead at your own risk!*)
-
