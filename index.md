@@ -1,4 +1,4 @@
-<div style="text-align:center; border:2px solid #b8491e">
+<div style="text-align:center; border:2px solid #b8491e; color: #b8491e; padding: 10px; font-size: 18px">
 <a href="https://forms.gle/7MUG3ZwvHs2YLYBW9">Please fill out the COURSE SURVEY!</a>
 </div>
 
@@ -68,11 +68,14 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 ## Important Dates
 
-* *(Monday 10/8 &ndash; Tuesday 10/9)*  Fall recess, no class 
-* *(Tuesday, 10/16)* **In-class Midterm** (tentative)
-* *(Wednesday, 11/21 &ndash; Sun, November 25)* Thanksgiving Holiday
-* *(Tuesday, 12/4)* Last day of class
-* *(Thursday, 12/6)* **Final Exam** from 2:40-5:30PM
+* *(Tuesday, 8/20/19)* First day of class
+* *(Friday, 8/23/19)* Schedule change deadline
+* *(Monday, 9/2/19)* Labor Day
+* *(Monday 10/14/19 - Tuesday, 10/15/19)* Fall Recess (no class)
+* *(Monday, 10/26/19 @ 4pm)* Withdrawal Deadline
+* *(Wednesday, 11/27/19 - Sunday, 11/31/19)* Thanksgiving Break
+* *(Tuesday, 12/3/19)* Last day of class
+* *(Thursday, 12/5/19 @ 2:40-5:30pm)* **Final Exam** (determined by [final exam matrix](https://registrar.gatech.edu/files/201908_Final_Exam_Matrix.pdf))
 
 # Homework
 
