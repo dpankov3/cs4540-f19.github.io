@@ -1,10 +1,14 @@
-## [Please fill out the COURSE SURVEY!](https://forms.gle/7MUG3ZwvHs2YLYBW9)
+<div style="text-align:center; border:2px solid #b8491e">
+<a href="https://forms.gle/7MUG3ZwvHs2YLYBW9">Please fill out the COURSE SURVEY!</a>
+</div>
 
-# Course Info
+## Course Info
 
 **Lecture Info** 
 - *Time:* Tuesday/Thursday 4:30-5:45pm
 - *Location*: College of Computing Building 102 
+
+**Course Staff**
 
 | Role | Name             | `____@gatech.edu` | Office Hours |
 | ---- | ---------------- | ----------------- | ------------ |
