@@ -10,9 +10,6 @@
 
 **Course Staff**
 
-We will be using Piazza (and occasionally Canvas announcements) for 
-We strongly prefer that you use Piazza for questions about lecture material, homeworks, and course logistics.  Please only use email in the case of a personal emergency or other sensitive matter.
-
 | Role | Name             | `____@gatech.edu` | Office Hours |
 | ---- | ---------------- | ----------------- | ------------ |
 | Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | TBD |
@@ -49,15 +46,13 @@ Each class period will have the following structure:
 
 ## Grading
 
-The course grades will be determined as follows.  Note that the in-class quizzes will be graded generously, and 50% of the credit will be given simply for showing up and answering the questions.
+### Homeworks (35%)
 
-| --------------------- | -----|
-| Homeworks		| 35%  |
-| Attendance + Quizzes	| 15%  |
-| Midterm Exam		| 20%  |
-| Final Exam		| 30%  |
+Students are allowed, and indeed encouraged, to work on homework with other students in the course. But when solutions are written up, this should be done alone and without the help of other students. Students are required to specify on their writeups which students that collaborated with. If we find solutions that appear even remotely to have been copied, these will be given a zero and the students will be notified.
 
-Quizzes will be entered electronically, via a web form, so make sure you have a phone, laptop, or tablet with you in class!  If you don’t have access to any of these, please let the instructor know.  The grading scheme will be:
+### Attendance+Quizzes (15%)
+
+In-class quizzes will be graded generously, and 50% of the credit will be given simply for showing up.  Quizzes will be entered electronically, via a web form, so make sure you have a phone, laptop, or tablet with you in class!  If you don't have access to any of these, please let us know and we will make accomodations.  The grading scheme for quizzes will be:
 
 * 2 points for a correct answer
 * 1 point for an incorrect answer
@@ -65,7 +60,13 @@ Quizzes will be entered electronically, via a web form, so make sure you have a 
 
 Your **five lowest quiz scores will be dropped**, which should be enough to account for quizzes missed due to planned or unplanned absences.
 
-Students are allowed, and indeed encouraged, to work on homework with other students in the course. But when solutions are written up, this should be done alone and without the help of other students. Students are required to specify on their writeups which students that collaborated with. If we find solutions that appear even remotely to have been copied, these will be given a zero and the students will be notified.
+### Midterm Exam (20%)
+
+The date of the midterm is TBD.  More details about the topics and format will be released at a later date.
+
+### Final Exam (30%)
+
+The final exam will take place on **Thursday, December 5, 2019** from **2:40-5:30pm**.  The final exam date is fixed by the university, and we are not at liberty to change it.  
 
 ## Reading
 
