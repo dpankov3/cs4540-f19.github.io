@@ -41,8 +41,8 @@ Each class period will have the following structure:
 
 * *(0mins)* Students arrive and organize themselves by sitting with their group
 * *(5mins)* Students take a very short and simple quiz on assigned reading material
-* *(55mins)* Problem time! Instructor presents a sequence of problems, and students are given 5-10 minutes per problem to try to solve each one with their group. Instructors will move around the classroom to engage with students and answer questions.
-* *(15mins)* Class wraps with a brief description of the forthcoming material for next period, in a “mini lecture”
+* *(70mins)* Problem time! Instructor presents a sequence of problems, and students are given 5-10 minutes per problem to try to solve each one with their group. Instructors will move around the classroom to engage with students and answer questions.
+
 
 ## Grading
 
@@ -108,7 +108,8 @@ No Required Reading
 * Raul Rojas, Neural Networks:  A Systematic Introduction
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
-  
+
+<!--  
 (Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
@@ -223,3 +224,4 @@ No Required Reading
 *Additional Resources*
 * Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
 * Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
+ -->
