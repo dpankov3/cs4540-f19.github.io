@@ -6,7 +6,7 @@
 
 **Lecture Info** 
 - *Time:* Tuesday/Thursday 4:30-5:45pm
-- *Location*: College of Computing Building 102 
+- *Location*: Klaus 2443 (*note:* classroom has changed from CCB!)
 
 **Course Staff**
 
