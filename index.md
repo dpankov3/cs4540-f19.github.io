@@ -100,6 +100,7 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 ### Tentative Schedule (*read ahead at your own risk!*)
 
 (Tu 8/20/19) **Lecture #1:  Introduction & Perceptron**
+([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f19-lecture01_welcome_and_introduction.ipynb))
 
 No Required Reading
 
@@ -109,8 +110,9 @@ No Required Reading
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
 
-<!--  
-(Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture02_linear-algebra.ipynb))
+ 
+(Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** 
+([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f19-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
 
@@ -122,7 +124,8 @@ No Required Reading
 * [UNSW 2501: Linear Algebra](https://gatech.instructure.com/courses/22666/files/folder/unsw-math2501_linear-algebra-notes) Notes on Canvas
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
-	
+
+
 (Tu 8/27/19) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture03_convex_sets.ipynb))
 
 *Required Preparation before Class*
@@ -140,7 +143,10 @@ No Required Reading
 * ETH Zürich, Approximate Methods in Geometry, ["Chapter 1:  Some Basic Geometry"](https://www.ti.inf.ethz.ch/ew/lehre/ApproxGeom08/notes/01_Basic_Geometry.pdf)
 * David L. Finn, Rose-Hullman MA 323, ["Barycentric Coordinates & de Casteljau's Algorithm"](https://www.rose-hulman.edu/~finn/CCLI/Notes/day11.pdf)
 
-(Th 8/29/19) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb))
+
+
+(Th 8/29/19) **Lecture #4:  Review of Multivariable Calculus**
+<!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb)) -->
 
 
 
@@ -160,7 +166,8 @@ No Required Reading
 	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
-(Tu 9/3/19) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb))
+(Tu 9/3/19) **Lecture #5:  Convex Functions & Intro to Optimization**
+<!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb)) -->
 
 *Required Preparation before Class*
  
@@ -176,6 +183,8 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
+
+<!-- 
 (Th 9/5/19) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
 
 *Required Preparation before Class*
