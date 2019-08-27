@@ -100,7 +100,7 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 ### Tentative Schedule (*read ahead at your own risk!*)
 
 (Tu 8/20/19) **Lecture #1:  Introduction & Perceptron**
-([Lecture Slides](https://github.com/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture01_welcome_and_introduction.ipynb))
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture01_welcome_and_introduction.ipynb))
 
 
 No Required Reading
@@ -113,7 +113,7 @@ No Required Reading
 
  
 (Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** 
-([Lecture Slides](https://github.com/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture02_linear-algebra.ipynb))
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
 
@@ -128,7 +128,7 @@ No Required Reading
 
 
 (Tu 8/27/19) **Lecture #3:  Convex Geometry**
-<!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture03_convex_sets.ipynb)) -->
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture03_convex_sets.ipynb))
 
 *Required Preparation before Class*
 
