@@ -4,7 +4,7 @@
 
 ## Course Info
 
-**Lecture Info** 
+**Lecture Info**
 - *Time:* Tuesday/Thursday 4:30-5:45pm
 - *Location*: Klaus 2443 (*note:* classroom has changed from CCB!)
 
@@ -14,8 +14,10 @@
 | ---- | ---------------- | ----------------- | ------------ |
 | Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | TBD |
 | GTA  | Benjamin Bray    | `benrbray`    | TBD |
-| TA   | Shyamal Patel    | `patels`      | TBD |
+| TA   | Shyamal Patel    | `patels`      | Friday 1-3pm* |
 | TA   | Rafael Hanashiro | `rhanashiro3` | TBD |
+
+\*Located at tables between Klaus 2116 and 2124
 
 **Communication**
 
@@ -111,8 +113,8 @@ No Required Reading
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
 
- 
-(Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** 
+
+(Th 8/22/19) **Lecture #2:  Review of Linear Algebra & Intro to Numpy**
 ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
@@ -172,7 +174,7 @@ No Required Reading
 <!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb)) -->
 
 *Required Preparation before Class*
- 
+
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 	* §3.1 Basic Properties & Examples of Convex Functions
 		* Skip §3.1.2 Extended-Value Extensions
@@ -186,7 +188,7 @@ No Required Reading
 	* §2.5 Separating & Supporting Hyperplanes
 
 
-<!-- 
+<!--
 (Th 9/5/19) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
 
 *Required Preparation before Class*
@@ -203,7 +205,7 @@ No Required Reading
 * Jim Burke, University of Washington MATH 407
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
-  
+
 (Th 9/12/19) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture08_duality_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
