@@ -162,7 +162,6 @@ No Required Reading
 	* Taylor series
 
 *Additional Resources*
-* Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * 3blue1brown YouTube Channel
@@ -188,13 +187,14 @@ No Required Reading
 	* §2.5 Separating & Supporting Hyperplanes
 
 
-<!--
-(Th 9/5/19) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
+
+(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions**
 
 *Required Preparation before Class*
-* Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
-	* Try to get used to the matrix notation for linear programs!  Think geometrically!
+* Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 
+
+<!-- 
 (Tu 9/10/19) **Lecture #7:  Linear Programming Duality** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture07_linear-programming-duality.ipynb))
 
 *Required Preparation before Class*
