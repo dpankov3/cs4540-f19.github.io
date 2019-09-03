@@ -150,7 +150,7 @@ No Required Reading
 
 
 (Th 8/29/19) **Lecture #4:  Review of Multivariable Calculus**
-<!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb)) -->
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture04_convexity_multivariable_calculus.ipynb))
 
 
 
