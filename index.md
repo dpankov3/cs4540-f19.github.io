@@ -171,7 +171,7 @@ No Required Reading
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
 (Tu 9/3/19) **Lecture #5:  Convex Functions & Intro to Optimization**
-<!-- ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb)) -->
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture05_convex-functions.ipynb))
 
 *Required Preparation before Class*
 
