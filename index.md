@@ -12,7 +12,7 @@
 
 | Role | Name             | `____@gatech.edu` | Office Hours |
 | ---- | ---------------- | ----------------- | ------------ |
-| Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | TBD |
+| Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | Tuesday 1am in Klaus 2134 |
 | GTA  | Benjamin Bray    | `benrbray`    | TBD |
 | TA   | Shyamal Patel    | `patels`      | Friday 1-3pm* |
 | TA   | Rafael Hanashiro | `rhanashiro3` | TBD |
