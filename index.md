@@ -14,8 +14,8 @@
 | ---- | ---------------- | ----------------- | ------------ |
 | Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | Tuesdays 11am-12pm in Klaus 2134 |
 | GTA  | Benjamin Bray    | `benrbray`    | TBD |
-| TA   | Shyamal Patel    | `patels`      | Fridays 1-3pm tables between Klaus 2116 and 2124|
-| TA   | Rafael Hanashiro | `rhanashiro3` | TBD |
+| TA   | Shyamal Patel    | `patels`      | Fridays 1-3pm between Klaus 2116 and 2124|
+| TA   | Rafael Hanashiro | `rhanashiro3` | Mondays 8-10am between Klaus 2116 and 2124 |
 
 
 **Communication**
