@@ -90,7 +90,8 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 # Homework
 
-* **Homework #1** Due date TBD
+* **Homework #1** Due date Sunday, September 8
+* **Homework #2** Due date Sunday, September 22
 
 # Calendar
 
@@ -191,6 +192,17 @@ No Required Reading
 
 *Required Preparation before Class*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
+
+
+(Tu 9/10/19) **Lecture #7:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
+
+*Required Preparation before Class*
+* Sham Kakade, ["Optimization 1: Gradient Descent"](https://courses.cs.washington.edu/courses/cse546/15au/lectures/lecture09_optimization.pdf)
+    - Read starting from Section 3, the most important thing is to understand the convergence rate of gradient descent under different assumptions (convex and lipschitz, convex and smooth, strongly convex and smooth)
+    
+
+
+
 
 
 <!-- 
