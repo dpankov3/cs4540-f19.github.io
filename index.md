@@ -188,7 +188,7 @@ No Required Reading
 
 
 
-(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions**([Lecture Slides](https://github.com/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture06_convexity_PSD.ipynb))
+(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture06_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
