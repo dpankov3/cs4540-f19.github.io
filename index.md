@@ -188,13 +188,14 @@ No Required Reading
 
 
 
-(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions**
+(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions**([Lecture Slides](https://github.com/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture06_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 
 
-(Tu 9/10/19) **Lecture #7:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
+(Tu 9/10/19) **Lecture #7:  Gradient Descent for Convex Functions**
+
 
 *Required Preparation before Class*
 * Sham Kakade, ["Optimization 1: Gradient Descent"](https://courses.cs.washington.edu/courses/cse546/15au/lectures/lecture09_optimization.pdf)
