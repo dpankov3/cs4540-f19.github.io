@@ -188,7 +188,7 @@ No Required Reading
 
 
 
-(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions**([Lecture Slides](https://github.com/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture06_convexity_PSD.ipynb))
+(Th 9/5/19) **Lecture #6:  More Calculus & Positive Definite Matrices & Convex Functions** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture06_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
@@ -201,9 +201,17 @@ No Required Reading
 * Sham Kakade, ["Optimization 1: Gradient Descent"](https://courses.cs.washington.edu/courses/cse546/15au/lectures/lecture09_optimization.pdf)
     - Read starting from Section 3, the most important thing is to understand the convergence rate of gradient descent under different assumptions (convex and lipschitz, convex and smooth, strongly convex and smooth)
     
+*Additional Resources*
 
-
-
+* Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
+	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
+	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
+* Definition of strong convexity in Boyd & Vandenberghe, ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) §9.1.2
+* Moritz Hardt, UC Berkeley EE227C
+	* ["Lecture 2:  Gradient Descent (Non-smooth and smooth)"](https://ee227c.github.io/notes/ee227c-lecture02.pdf)
+	* ["Lecture 3:  Gradient Descent (Strongly convex)"](https://ee227c.github.io/notes/ee227c-lecture03.pdf)
+	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
+* Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
 
 
 <!-- 
