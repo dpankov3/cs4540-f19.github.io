@@ -194,7 +194,7 @@ No Required Reading
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 
 
-(Tu 9/10/19) **Lecture #7:  Gradient Descent for Convex Functions**
+(Tu 9/10/19) **Lecture #7:  Gradient Descent for Convex Functions** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture07_gradient-descent.ipynb))
 
 
 *Required Preparation before Class*
