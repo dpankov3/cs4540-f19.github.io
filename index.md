@@ -12,7 +12,7 @@
 
 | Role | Name             | `____@gatech.edu` | Office Hours |
 | ---- | ---------------- | ----------------- | ------------ |
-| Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | Tuesdays 11am-12pm in Klaus 2134 |
+| Prof | [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/)  | `prof`        | Tuesdays 10am-11am in Klaus 2134 |
 | GTA  | Benjamin Bray    | `benrbray`    | TBD |
 | TA   | Shyamal Patel    | `patels`      | Fridays 1-3pm between Klaus 2116 and 2124|
 | TA   | Rafael Hanashiro | `rhanashiro3` | Mondays 8-10am between Klaus 2116 and 2124 |
@@ -212,6 +212,36 @@ No Required Reading
 	* ["Lecture 3:  Gradient Descent (Strongly convex)"](https://ee227c.github.io/notes/ee227c-lecture03.pdf)
 	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
 * Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
+
+
+
+
+
+(Tu 9/17/19) **Lecture #8:  Intro to Supervised ML: Least Squares, Logistic Regression, Support Vector Machines** 
+<!-- ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture07_gradient-descent.ipynb)) -->
+
+
+
+*Required Preparation before Class*
+
+* Andrew Ng, [CS229 Lecture Notes 1](http://cs229.stanford.edu/summer2019/cs229-notes1.pdf). You need only read:
+	- Pages 1-12, intro to least squares regression
+	- Pages 14-19, intro to logistic regression, and Newton's method
+* Pedro Felzenszwalb [CS142 Lectures Notes 10](http://cs.brown.edu/people/pfelzens/engn2520/CS1420_Lecture_10.pdf)
+	- Focus on the *unconstrained* formulation of the SVM in equation (1)!
+
+
+
+
+(Th 9/19/19) **Lecture #9:  Intro to Online Learning** 
+<!-- ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture07_gradient-descent.ipynb)) -->
+
+*Required Preparation before Class*
+
+* Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
+	- Chapter 1, pages 3-15, *learning with expert advice*
+
+	
 
 
 <!-- 
