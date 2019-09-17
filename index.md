@@ -203,6 +203,8 @@ No Required Reading
     
 *Additional Resources*
 
+* Sebastian Bubeck 2015, ["Convex Optimization: Algorithms and Complexity"](https://arxiv.org/pdf/1405.4980.pdf)
+    - Sections 3.0, 3.1, 3.2, and 3.4
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
 	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
 	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
