@@ -236,7 +236,7 @@ No Required Reading
 
 
 (Th 9/19/19) **Lecture #9:  Intro to Online Learning** 
-<!-- ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture07_gradient-descent.ipynb)) -->
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture09_online_learning_weighted_majority.ipynb))
 
 *Required Preparation before Class*
 
