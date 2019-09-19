@@ -220,7 +220,7 @@ No Required Reading
 
 
 (Tu 9/17/19) **Lecture #8:  Intro to Supervised ML: Least Squares, Logistic Regression, Support Vector Machines** 
-<!-- ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture07_gradient-descent.ipynb)) -->
+([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture08_least_squares_SVM_logistic_regression.ipynb))
 
 
 
