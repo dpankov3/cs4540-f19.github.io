@@ -244,7 +244,7 @@ No Required Reading
 	- Chapter 1, pages 3-15, *learning with expert advice*
 
 
-(Tu 9/24/19) **Lecture #1:  Online Convex Optimization and Online Gradient Descent** 
+(Tu 9/24/19) **Lecture #10:  Online Convex Optimization and Online Gradient Descent** 
 
 *Required Preparation before Class*
 
