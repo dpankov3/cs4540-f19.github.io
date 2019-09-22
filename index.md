@@ -243,7 +243,14 @@ No Required Reading
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
 	- Chapter 1, pages 3-15, *learning with expert advice*
 
-	
+
+(Tu 9/24/19) **Lecture #1:  Online Convex Optimization and Online Gradient Descent** 
+
+*Required Preparation before Class*
+
+* Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
+	- Chapter 3, pages 39-45, *learning with expert advice*
+
 
 
 <!-- 
