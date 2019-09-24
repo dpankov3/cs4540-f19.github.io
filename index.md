@@ -250,6 +250,14 @@ No Required Reading
 
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
 	- Chapter 3, pages 39-45, *learning with expert advice*
+	
+(Th 9/26/19) **Lecture #11:  Matrix Decompositions & SVD** 
+
+*Required Preparation before Class*
+
+* Trefethen & Bau, [Numerical Linear Algebra](https://gatech.instructure.com/courses/49866/files/folder/reading?preview=7744347) (posted to Canvas)
+	- Lecture 4: The Singular Value Decomposition (Pages 25-31)
+	- Lecture 5: More on the SVD (Pages 32-37)
 
 
 
