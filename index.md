@@ -259,6 +259,13 @@ No Required Reading
 	- Lecture 4: The Singular Value Decomposition (Pages 25-31)
 	- Lecture 5: More on the SVD (Pages 32-37)
 
+(Tu 10/1/19) **Lecture #12: OGD, SGD, and rates of optimization**
+
+*Requires Preparation before Class*
+
+* Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
+	- Chapter 3, pages 46-48, *learning with expert advice*
+	
 
 
 <!-- 
