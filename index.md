@@ -259,7 +259,7 @@ No Required Reading
 	- Lecture 4: The Singular Value Decomposition (Pages 25-31)
 	- Lecture 5: More on the SVD (Pages 32-37)
 
-(Tu 10/1/19) **Lecture #12: OGD, SGD, and rates of optimization**
+(Tu 10/1/19) **Lecture #12: OGD, SGD, and rates of optimization** [Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture12_SGD_online_to_batch.ipynb)
 
 *Requires Preparation before Class*
 
