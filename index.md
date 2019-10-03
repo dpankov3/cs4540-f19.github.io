@@ -266,7 +266,7 @@ No Required Reading
 * Elad Hazan, [Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf) book
 	- Chapter 3, pages 46-48, *learning with expert advice*
 	
-(Th 10/3/19) **Lecture #13:  Linear Programming Introduction** ([F18 Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
+(Th 10/3/19) **Lecture #13:  Linear Programming Introduction** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture13_linear-programming.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
