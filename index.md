@@ -272,7 +272,7 @@ No Required Reading
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
 	* Try to get used to the matrix notation for linear programs!  Think geometrically!
 	
-(Th 10/17/19) **Lecture #14:  Linear Programming Duality**
+(Th 10/17/19) **Lecture #14:  Linear Programming Duality** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture14_linear-programming-duality.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 8: Linear Programming Duality I](http://theory.stanford.edu/~tim/w16/l/l8.pdf) (Pages 1-6)
