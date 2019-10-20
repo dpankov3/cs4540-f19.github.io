@@ -271,9 +271,8 @@ No Required Reading
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
 	* Try to get used to the matrix notation for linear programs!  Think geometrically!
-
-<!-- 
-(Tu 9/10/19) **Lecture #7:  Linear Programming Duality** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture07_linear-programming-duality.ipynb))
+	
+(Th 10/17/19) **Lecture #14:  Linear Programming Duality** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f19/cs4540-f19.github.io/blob/master/lectures/cs4540-f19-lecture14_linear-programming-duality.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 8: Linear Programming Duality I](http://theory.stanford.edu/~tim/w16/l/l8.pdf) (Pages 1-6)
@@ -283,36 +282,3 @@ No Required Reading
 * Jim Burke, University of Washington MATH 407
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
-
-(Th 9/12/19) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture08_duality_convexity_PSD.ipynb))
-
-*Required Preparation before Class*
-* Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
-	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
-	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
-
-(Tu 9/17/19) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
-
-*Required Preparation before Class*
-* Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 17-21)
-	* Proof of convergence for gradient descent on quadratic forms
-* Try to understand the definition of strong convexity in Boyd & Vandenberghe, ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) §9.1.2
-
-*Additional Resources*
-* Moritz Hardt, UC Berkeley EE227C
-	* ["Lecture 2:  Gradient Descent (Non-smooth and smooth)"](https://ee227c.github.io/notes/ee227c-lecture02.pdf)
-	* ["Lecture 3:  Gradient Descent (Strongly convex)"](https://ee227c.github.io/notes/ee227c-lecture03.pdf)
-	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
-* Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
-
-(Th 9/19/19) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture10_gradient-descent-variants.ipynb))
-
-*Required Preparation before Class*
-* Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), §7.1-7.4
-	* Understand Frank Wolfe (a.k.a. conditional gradient) at a high-level
-	* Compare the structure of the convergence proof to that of gradient descent from Lecture 9
-
-*Additional Resources*
-* Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
-* Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
- -->
